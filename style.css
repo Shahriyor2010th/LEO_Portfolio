@@ -1,0 +1,1013 @@
+/* newsreader-200 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 200;
+  src: url("./fonts/newsreader-v26-latin-200.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* newsreader-200italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 200;
+  src: url("./fonts/newsreader-v26-latin-200italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* newsreader-300 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 300;
+  src: url("./fonts/newsreader-v26-latin-300.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* newsreader-300italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 300;
+  src: url("./fonts/newsreader-v26-latin-300italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* newsreader-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./fonts/newsreader-v26-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* newsreader-italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 400;
+  src: url("./fonts/newsreader-v26-latin-italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* newsreader-500 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 500;
+  src: url("./fonts/newsreader-v26-latin-500.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* newsreader-500italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 500;
+  src: url("./fonts/newsreader-v26-latin-500italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* newsreader-600 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 600;
+  src: url("./fonts/newsreader-v26-latin-600.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* newsreader-600italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 600;
+  src: url("./fonts/newsreader-v26-latin-600italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* newsreader-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./fonts/newsreader-v26-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* newsreader-700italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 700;
+  src: url("./fonts/newsreader-v26-latin-700italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* newsreader-800 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 800;
+  src: url("./fonts/newsreader-v26-latin-800.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* newsreader-800italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 800;
+  src: url("./fonts/newsreader-v26-latin-800italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-100 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 100;
+  src: url("./fonts/jetbrains-mono-v24-latin-100.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-100italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: italic;
+  font-weight: 100;
+  src: url("./fonts/jetbrains-mono-v24-latin-100italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-200 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 200;
+  src: url("./fonts/jetbrains-mono-v24-latin-200.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-200italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: italic;
+  font-weight: 200;
+  src: url("./fonts/jetbrains-mono-v24-latin-200italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-300 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 300;
+  src: url("./fonts/jetbrains-mono-v24-latin-300.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-300italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: italic;
+  font-weight: 300;
+  src: url("./fonts/jetbrains-mono-v24-latin-300italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./fonts/jetbrains-mono-v24-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: italic;
+  font-weight: 400;
+  src: url("./fonts/jetbrains-mono-v24-latin-italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-500 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 500;
+  src: url("./fonts/jetbrains-mono-v24-latin-500.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-500italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: italic;
+  font-weight: 500;
+  src: url("./fonts/jetbrains-mono-v24-latin-500italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-600 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 600;
+  src: url("./fonts/jetbrains-mono-v24-latin-600.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-600italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: italic;
+  font-weight: 600;
+  src: url("./fonts/jetbrains-mono-v24-latin-600italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./fonts/jetbrains-mono-v24-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-700italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: italic;
+  font-weight: 700;
+  src: url("./fonts/jetbrains-mono-v24-latin-700italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-800 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 800;
+  src: url("./fonts/jetbrains-mono-v24-latin-800.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jetbrains-mono-800italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: italic;
+  font-weight: 800;
+  src: url("./fonts/jetbrains-mono-v24-latin-800italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* new-rocker-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "New Rocker";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./fonts/new-rocker-v17-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+body {
+  max-width: 1280px;
+  margin: 0 auto;
+  font-family: "Newsreader";
+  background: #070b14;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.bg__video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: auto;
+  z-index: -999;
+  filter: blur(3px);
+}
+.progress{
+  width: 100%;
+  z-index: 999;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: #00F0FF;
+  box-shadow: 0 3px 10px 0 #00F0FF;
+  transform-origin: 0 50%;
+  animation: widenprog 2s linear;
+  animation-timeline: scroll();
+}
+/* .line {
+  width: 100%;
+  height: 2px;
+  background: #ffffff10;
+  border-radius: 5px;
+  margin: 20px 0;
+} */
+
+/* Header style */
+
+.header {
+  width: 100vw;
+  position: absolute;
+  left: 0;
+  display: flex;
+  justify-content: center;
+}
+.header > .container {
+  width: 1280px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.container__left {
+  display: flex;
+  align-items: center;
+}
+.container__left > h1 > a {
+  text-decoration: none;
+  color: #fff;
+  border-right: 1px solid #686868;
+  padding-right: 40px;
+  font-family: "New Rocker";
+}
+.container__left > .circle {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #00f0ff;
+  margin: 0 10px 0 20px;
+  box-shadow: 0 0 8px 2px #00f0ff;
+}
+.container__left > span {
+  font-size: 13px;
+  color: #cbd5e1;
+  font-family: "JetBrains Mono";
+}
+.header__linkbox {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.header__linkbox > button {
+  background: none;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  color: #cbd5e1;
+  font-size: 15px;
+  letter-spacing: 1px;
+  padding: 2px;
+  border-radius: 5px 5px 0 0;
+}
+.header__linkbox > button:hover {
+  transform: translateY(-4px);
+  transition: 0.2s;
+}
+.contact__btn {
+  background: #0284c7;
+  background: linear-gradient(
+    264deg,
+    rgba(2, 132, 199, 1) 0%,
+    rgba(0, 240, 255, 1) 100%
+  );
+  color: #070b14;
+  font-family: "JetBrains Mono";
+  font-size: 11px;
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.contact__btn:hover {
+  transform: scale(1.08) !important;
+  transition: 0.5s !important;
+}
+
+/* Hero style */
+
+main {
+  width: 100%;
+  padding-top: 59px;
+}
+.hero {
+  padding: 10px 0 50px 0;
+}
+.hero>.hero__top>h2 {
+  width: 768px;
+  font-size: 50px;
+  color: #fff;
+  font-weight: 500;
+}
+.hero__top{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.hero__infobox {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.hero__infobox > .box {
+  width: calc(100% / 3);
+  background: #ffffff05;
+  margin-left: 16px;
+  padding: 12px;
+  border-top: 2px solid #ffffff08;
+  border-bottom: 2px solid #ffffff08;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.hero__infobox > .box > p {
+  font-family: "JetBrains Mon";
+  font-size: 11px;
+  font-weight: 400;
+  color: #94A3B8;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.hero__infobox > .box > span {
+  font-size: 11px;
+  color: #00F0FF;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+.hero__infobox > .box > h4 {
+  color: #FFFFFF;
+  font-size: 22px;
+  font-weight: 400;
+}
+.hero__infobox>.box:hover{
+  transform: translateY(-20px);
+  transition: 1s;
+  cursor: default;
+}
+
+
+/* Secion 1 style */
+
+
+.sec1{
+  margin-top: 50px;
+}
+.sec1__title{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.sec1__title>div>p{
+  font-family: 'JetBrains Mono';
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 1.1px;
+  color: #00F0FF;
+}
+.sec1__title>div>h3{
+  font-size: 40px;
+  color: #fff;
+  letter-spacing: -0.8px;
+}
+.sec1__title>p{
+  color: #CBD5E1;
+  font-size: 11px;
+  font-weight: 400;
+}
+.line{
+  width: 0;
+  height: 2px;
+  background: #ffffff10;
+  border-radius: 5px;
+  margin: 20px 0;
+  animation: widening 3s ease;
+  animation-delay: 4s;
+  animation-fill-mode: forwards;
+}
+
+
+
+
+/* Projects style */
+.project{
+  display: flex;
+  align-items: center;
+  gap: 60px;
+  margin: 20px 0;
+  padding: 20px;
+  opacity: 0;
+  background: none;
+  border: 1px solid #00eeff60;
+  border-radius: 20px;
+  box-shadow: 0 0 25px 0 #00F0FF22;
+  animation: fadein ease;
+  animation-timeline: view();
+  animation-fill-mode: forwards;
+  animation-range: 10% 40%;
+}
+.projectreverse{
+  opacity: 0;
+  animation: fadeinreverse ease;
+  animation-timeline: view();
+  animation-fill-mode: forwards;
+  animation-range: 10% 40%;
+}
+.project>video{
+  width: 690px;
+  height: 100%;
+  border-radius: 20px
+}
+.project__info>span{
+  color: #00F0FF;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 11px;
+  font-weight: 400;
+  font-family: 'JetBrains Mono';
+}
+.project__info>h2{
+  color: #fff;
+  font-size: 28;
+  font-weight: 500;
+  letter-spacing: -0.8px;
+  margin-bottom: 10px;
+}
+.project__info>p{
+  color: #CBD5E1;
+  font-size: 15px;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+.project__info>strong{
+  color: #94A3B8;
+  font-size: 11px;
+  font-family: "JetBrains Mono";
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.project__info>ul{
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 396px;
+  gap: 8px;
+  list-style: none;
+}
+.project__info>ul>li{
+  background: #111C33;
+  color: #fff;
+  border: 1px solid #00eeff30;
+  padding: 4px 10px;
+  font-size: 11px;
+  font-family: "JetBrains Mono";
+  letter-spacing: 1px;
+  border-radius: 50px;
+  box-shadow: 0 0 10px 0 #00eeff3a;
+  cursor: default;
+}
+.project__info>ul>li:hover{
+  transform: translateY(-5px);
+  transition: 0.8s;
+}
+.project__info>a{
+  color: #00F0FF;
+  width: fit-content;
+  font-family: "JetBrains Mono";
+  font-size: 11px;
+  text-decoration: none;
+  background: #00F0FF31;
+  padding: 8px 10px;
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+.project__info>a:hover{
+  animation: widening2 0.8s ease-in;
+  animation-fill-mode: forwards;
+}
+.projectbox{
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+  gap: 24px;
+}
+.project2{
+  width: calc((100% - 24px)/2 );
+  height: 725px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  background: none;
+  border: 1px solid #00eeff60;
+  border-radius: 20px;
+  box-shadow: 0 0 25px 0 #00F0FF22;
+}
+.project2>img{
+  width: 100%;
+  height: 370px;
+}
+
+
+/* section2 and certificates' style  */
+
+.sec2{
+  margin-top: 30px;
+}
+.sec2>.top{
+  display: flex;
+  gap: 24px;
+  align-items: center;
+  justify-content: space-around;
+}
+.sec2__title{
+  color: #fff;
+  font-size: 40px;
+}
+.sec2__desc{
+  width: 600px;
+  color: #E2E8F0;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 19px;
+}
+.sec2>.bottom{
+  display: flex;
+  gap: 24px;
+}
+.certificate__box{
+  width: 379px;
+  height: 551px;
+  border: 1px solid #00F0FF40;
+  background: #0E162880;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px 0 #00F0FF20;
+}
+.certificate__box>img{
+  width: 90%;
+  margin-left: 15px;
+  margin-bottom: 20px;
+  height: 74%;
+}
+.certificate__box>h4{
+  color: #ffff;
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.certificate__box>p{
+  color: #CBD5E1;
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  max-width: 312px;
+}
+.sec2>.bottom>.certificate__box:first-child{
+  animation: float 4s ease-in-out infinite;
+  transition: 2s;
+}
+.sec2>.bottom>.certificate__box:nth-child(2){
+  animation: float 4s ease-in-out infinite;
+  transition: 2s;
+  animation-delay: 1s;
+}
+.sec2>.bottom>.certificate__box:nth-child(3){
+  animation: float 4s ease-in-out infinite;
+  transition: 2s;
+  animation-delay: 2s;
+}
+.sec2>.top{
+  animation: scaleup ease;
+  animation-fill-mode: forwards;
+  animation-timeline: view();
+  animation-range: 0% 50%;
+}
+.sec2>.bottom{
+  animation: fadeup ease-in;
+  animation-fill-mode: forwards;
+  animation-timeline: view();
+  animation-range: 0% 40%;
+}
+
+
+/* section 3 style */
+
+
+.sec3{
+  width: 1214px;
+  height: 553px;
+  overflow-y: hidden;
+}
+
+.sec3>h2{
+  margin-top: 100px;
+  font-size: 28px;
+  letter-spacing: -0.7px;
+  font-weight: 400;
+  color: #fff;
+}
+.sec3__box>h1{
+  font-family: "New Rocker";
+  font-weight: 400;
+  color: #fff;
+  font-size: 34px;
+  letter-spacing: 0.8px;
+  margin-bottom: 10px;
+}
+.sec3__box>p{
+  font-size: 20px;
+  font-weight: 400;
+  color: #CBD5E1;
+}
+
+.sec3__box{
+  animation: wordsrendery ease;
+  animation-timeline: view();
+  animation-range: -1% 40%;
+}
+.sec3>h2{
+  animation: wordsrenderx ease;
+  animation-timeline: view();
+  animation-range: -1% 40%;
+}
+
+/* section 4 */
+
+.sec4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.sec4__box{
+  border: 1px solid #00F0FF60;
+  border-radius: 20px;
+  padding: 64px;
+  box-shadow: 0 0 25px 0 #00F0FF25,  inset 0 0 20px 1px #00eeff06;
+}
+.sec4__box{
+  display: flex;
+  gap: 10px;
+}
+.line__ver{
+  width: 2px;
+  height: 200px;
+  background: #ffffff10;
+}
+.sec4__box>.left{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.sec4__box>.left>.circlebox{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.circlebox>.circle{
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #00F0FF;
+  box-shadow: 0 0 8px 0 #00F0FF;
+}
+.circlebox>span{
+  font-family: "JetBrains Mono";
+  font-size: 11px;
+  font-weight: 400;
+  color: #00F0FF;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.sec4__box>.left{
+  width: 576px;
+}
+.sec4__box>.left>h1{
+  color: #fff;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: -0.8px;
+}
+.sec4__box>.left>p{
+  color: #CBD5E1;
+  font-size: 18px;
+}
+.email__user{
+  display: flex;
+  gap: 10px;
+  width: fit-content;
+  padding: 14px 24px;
+  align-items: center;
+  background: #00F0FF;
+  border: none;
+  box-shadow: 0 0 10px 0 #00F0FF50;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.sec4__right>p{
+  color: #00f0ff;
+  font-family: "JetBrains Mono";
+  font-size: 11px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+.sec4__right>ul{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.sec4__right>ul>li>a{
+  color: #fff;
+  text-decoration: none;
+}
+.sec4__right>div{
+  padding: 10px;
+  border: 1px solid #00F0FF;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #00F0FF20;
+  margin-top: 20px;
+}
+.sec4__right>div>span{
+  font-size: 11px;
+  font-weight: 400;
+  font-family: "JetBrains Mono";
+  color: #00F0FF;
+}
+.sec4__right>div>p{
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+}
+.sec4__box{
+  animation: render ease;
+  animation-timeline: view();
+  animation-range: -1% 40%;
+}
+
+
+/* Footer style */
+
+footer{
+  border-top: 2px solid #4b4b4b;
+  width: 100%;
+  padding: 10px 20px;
+  background: #000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+footer>h1>a{
+  color: #fff;
+  font-size: 33px;
+  text-decoration: none;
+  font-family: "New Rocker";
+  font-weight: 400;
+}
+footer>span{
+  color: #94A3B8;
+  font-size: 13px;
+}
+
+
+
+
+
+
+
+
+/* JS styles */
+
+.selected {
+  box-shadow: 0 1px 10px 0 #00f0ff;
+  border-bottom: 2px solid #00f0ff !important;
+  padding-bottom: 8px !important;
+}
+
+
+
+/* animations */
+
+@keyframes widening{
+  0% {
+    width: 0;
+  }
+
+  100%{
+    width: 100%;
+  }
+}
+@keyframes widening2{
+  0% {
+    width: 143px;
+  }
+  100%{
+    width: 50%;
+  }
+}
+@keyframes fadein{
+  0%{
+    opacity: 0;
+    transform: translateX(-100px);
+  }
+  50%{
+    opacity: 0.5;
+    transform: translateX(-50px);
+  }
+  100%{
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+@keyframes fadeinreverse{
+  0%{
+    opacity: 0;
+    transform: translateX(100px);
+  }
+  50%{
+    opacity: 0.5;
+    transform: translateX(50px);
+  }
+  100%{
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+@keyframes widenprog{
+  0%{
+    transform: scaleX(0);
+  }
+  100%{
+    transform: scaleX(1);
+  }
+}
+@keyframes float{
+  0%{
+    transform: translateY(0);
+  }
+  25%{
+    transform: translateY(5px);
+  }
+  75%{
+    transform: translateY(-5px);
+  }
+  100%{
+    transform: translateY(0);
+  }
+  
+}
+@keyframes scaleup{
+  0%{
+    opacity: 0;
+    filter: blur(20px);
+    scale: 0;
+  }
+  100%{
+    filter: blur(0);
+    opacity: 1;
+    scale: 1;
+  }
+}
+@keyframes fadeup {
+  0%{
+    filter: blur(20px);
+    transform: translateY(200px);
+  }
+  100%{
+    filter: blur(0);
+    transform: translateY(0);
+  }
+}
+@keyframes wordsrendery{
+    0%{
+      opacity: 0;
+      filter: blur(15px);
+      line-height: 50px;
+    }
+    60%{
+      filter: blur(5px);
+    }
+    100%{
+      opacity: 1;
+      filter: blur(0);
+      line-height: 23px;
+    }
+}
+@keyframes wordsrenderx{
+    0%{
+      opacity: 0;
+      filter: blur(15px);
+      letter-spacing: 30px;
+    }
+    60%{
+      filter: blur(5px);
+    }
+    100%{
+      opacity: 1;
+      filter: blur(0);
+      letter-spacing: 0px;
+    }
+}
+@keyframes render{
+  0%{
+    filter: blur(10px);
+    scale: 0;
+  }
+  100%{
+    filter: blur(0);
+    scale: 1;
+  }
+}
