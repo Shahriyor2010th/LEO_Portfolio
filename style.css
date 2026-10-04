@@ -832,6 +832,9 @@ main {
   font-weight: 500;
   color: #fff;
 }
+.sec4__right>div>p>span{
+  color: gold;
+}
 .sec4__box{
   animation: render ease;
   animation-timeline: view();
